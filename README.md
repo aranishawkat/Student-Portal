@@ -6,3 +6,6 @@ course. This application can store name, id, phone, address, parent name and cgp
 To execute this program, C++ compiler should be installed and following commands will start the application:
 
 
+`g++ pupilz.cpp`
+`./a.out`
+
