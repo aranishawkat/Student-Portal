@@ -7,5 +7,6 @@ To execute this program, C++ compiler should be installed and following commands
 
 
 `g++ pupilz.cpp`
+
 `./a.out`
 
