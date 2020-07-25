@@ -29,23 +29,23 @@ void inserts3(){
     temp3 = new item;
     temp3->next=NULL;
 
-    temp1->name="Imranul Ashrafi";
-    temp1->id="1611656042";
-    temp1->parent_name="MD. Mokbul Hossain";
+    temp1->name="Rahim";
+    temp1->id="1611656";
+    temp1->parent_name="Karim";
     temp1->address="Uttara, Dhaka";
     temp1->phone="N/A";
     temp1->cgpa="N/A";
 
-    temp2->name="Arani Shawkat";
-    temp2->id="1610150642";
-    temp2->parent_name="Shawkat Osman Rochi";
+    temp2->name="Anika";
+    temp2->id="161015";
+    temp2->parent_name="Shawkat";
     temp2->address="Mirpur, Dhaka";
     temp2->phone="N/A";
     temp2->cgpa="N/A";
 
-    temp3->name="Shohaib Islam";
-    temp3->id="1611237042";
-    temp3->parent_name="Tohidul Islam";
+    temp3->name="Shohaib";
+    temp3->id="1611237";
+    temp3->parent_name="Tohid";
     temp3->address="Bashundhara R/A, Dhaka";
     temp3->phone="N/A";
     temp3->cgpa="N/A";
